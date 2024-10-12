@@ -1,6 +1,8 @@
-# Hi! 👋 I'm María Pizarro Cuevas
+<div align="center">
 
-### Senior Developer & Tech Lead | Mentoring @Lidr.co
+# 👋 Hi, I'm María!
+
+### _Senior Developer & Tech Lead | Mentoring @Lidr.co_
 
 I am a **Senior Software Engineer** with over 8 years of experience in software development and technical leadership, specializing in **digital commerce**. Throughout my career, I have worked with a wide variety of multinational clients, developing scalable solutions and managing development teams.
 
@@ -35,3 +37,4 @@ In addition to my role as a developer, I enjoy sharing knowledge and mentoring o
 ---
 
 Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate or have any questions. 🚀
+</div>
