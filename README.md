@@ -8,8 +8,8 @@ I am a **Senior Software Engineer** with over 8 years of experience in software 
 
 In addition to my role as a developer, I enjoy sharing knowledge and mentoring others through my role as a **Mentor** in AI and backend development.
 
-<table style="border: none;">
-    <tr align="center" style="border: none;">
+<table>
+    <tr align="center">
         <td valign="top" width="50%">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edain92&layout=compact&theme=tokyonight" alt="Top Langs" />    
         </td>
@@ -22,19 +22,6 @@ In addition to my role as a developer, I enjoy sharing knowledge and mentoring o
 ---
 
 ### 🚀 My Stack & Tools 🛠️
-
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-    padding-left: 10px;
-}
-</style>
 
 <table>
     <tr>
