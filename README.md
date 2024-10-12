@@ -25,7 +25,7 @@ In addition to my role as a developer, I enjoy sharing knowledge and mentoring o
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![VTEX](https://img.shields.io/badge/VTEX-F71963?style=for-the-badge&logo=vtex&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edain92) ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edain92) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edain92&layout=compact) ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edain92&show_icons=true) 
 
 ### 🎯 You can find me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-pizarro-cuevas/)
