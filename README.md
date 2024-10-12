@@ -8,8 +8,7 @@ I am a **Senior Software Engineer** with over 8 years of experience in software 
 
 In addition to my role as a developer, I enjoy sharing knowledge and mentoring others through my role as a **Mentor** in AI and backend development.
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edain92&layout=compact&theme=tokyonight) | ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Edain92&show_icons=true&theme=tokyonight) |
-|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edain92&layout=compact&theme=tokyonight" alt="Top Langs" width="45%" /> <img src="https://github-readme-stats.vercel.app/api?username=Edain92&show_icons=true&theme=tokyonight" alt="My GitHub stats" width="45%" />
 
 
 ### 🚀 My Stack & Tools 🛠️
