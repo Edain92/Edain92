@@ -8,8 +8,6 @@ I am a **Senior Software Engineer** with over 8 years of experience in software 
 
 In addition to my role as a developer, I enjoy sharing knowledge and mentoring others through my role as a **Mentor** in AI and backend development.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Edain92&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edain92&layout=compact&theme=dark)
-
 ### 🚀 Main Technologies I Work With:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,6 +25,7 @@ In addition to my role as a developer, I enjoy sharing knowledge and mentoring o
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![VTEX](https://img.shields.io/badge/VTEX-F71963?style=for-the-badge&logo=vtex&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edain92&layout=compact&theme=dark) ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Edain92&show_icons=true&theme=dark) 
 
 ### 🎯 You can find me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-pizarro-cuevas/)
