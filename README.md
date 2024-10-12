@@ -55,7 +55,7 @@ In addition to my role as a developer, I enjoy sharing knowledge and mentoring o
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-pizarro-cuevas/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpizarrocuevas@gmail.com)
 
-<a href="https://app.daily.dev/edain"><img src="https://api.daily.dev/devcards/v2/OEK7UERSv.png?type=default&r=pwo" width="356" alt="María Pizarro Cuevas's Dev Card"/></a>
+<a href="https://app.daily.dev/edain"><img src="https://api.daily.dev/devcards/v2/OEK7UERSv.png?type=default&r=pwo" width="175" alt="María Pizarro Cuevas's Dev Card"/></a>
 
 ---
 
