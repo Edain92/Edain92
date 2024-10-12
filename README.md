@@ -8,6 +8,7 @@ I am a **Senior Software Engineer** with over 8 years of experience in software 
 
 In addition to my role as a developer, I enjoy sharing knowledge and mentoring others through my role as a **Mentor** in AI and backend development.
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Edain92&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edain92&layout=compact&theme=dark)
 
 ### 🚀 Main Technologies I Work With:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
