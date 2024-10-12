@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm María!
 
-### _Senior Developer & Tech Lead | Mentoring @Lidr.co_
+### _Senior Developer & Tech Lead | Mentoring @LIDR-academy_
 
 I am a **Senior Software Engineer** with over 8 years of experience in software development and technical leadership, specializing in **digital commerce**. Throughout my career, I have worked with a wide variety of multinational clients, developing scalable solutions and managing development teams.
 
