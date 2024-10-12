@@ -23,6 +23,19 @@ In addition to my role as a developer, I enjoy sharing knowledge and mentoring o
 
 ### 🚀 My Stack & Tools 🛠️
 
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+blockquote {
+    border-left: none;
+    padding-left: 10px;
+}
+</style>
+
 <table>
     <tr>
         <td valign="top" width="33%">
