@@ -10,8 +10,8 @@ In addition to my role as a developer, I enjoy sharing knowledge and mentoring o
 
 <br/>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Edain92&show_icons=true&theme=tokyonight" alt="My GitHub stats" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edain92&layout=compact&theme=tokyonight" alt="Top Langs" width="45%" />  
+<img src="https://github-readme-stats.vercel.app/api?username=Edain92&show_icons=true&theme=tokyonight" alt="My GitHub stats" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edain92&layout=compact&theme=tokyonight" alt="Top Langs" width="35%" />  
 
 <br/>  
 
@@ -22,18 +22,18 @@ In addition to my role as a developer, I enjoy sharing knowledge and mentoring o
 <div style="display: flex; justify-content: space-around;">
   <div style="flex: 1; text-align: center; padding: 10px;">
     <h4>Frontend</h4>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="30" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30" />
-      <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" height="30" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="25" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="25" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="25" />
+      <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" height="25" />
   </div>
 
   <div style="flex: 1; text-align: center; padding: 10px;">
     <h4>Backend</h4>
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="30" />
-      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" height="30" />
-      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="30" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="30" />
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="25" />
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" height="25" />
+      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="25" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="25" />
   </div>
 
   <div style="flex: 1; text-align: center; padding: 10px;">
@@ -55,9 +55,16 @@ In addition to my role as a developer, I enjoy sharing knowledge and mentoring o
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-pizarro-cuevas/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpizarrocuevas@gmail.com)
 
-<a href="https://app.daily.dev/edain"><img src="https://api.daily.dev/devcards/v2/OEK7UERSv.png?type=default&r=pwo" width="175" alt="María Pizarro Cuevas's Dev Card"/></a>
+<a href="https://app.daily.dev/edain"><img src="https://api.daily.dev/devcards/v2/OEK7UERSv.png?type=default&r=pwo" width="200" alt="María Pizarro Cuevas's Dev Card"/></a>
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate or have any questions. 🚀
+<br/>
+
+<div align="left">
+
+🤗 Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate or have any questions. 
+
+</div>
+
 </div>
