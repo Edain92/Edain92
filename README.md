@@ -44,9 +44,9 @@ In addition to my role as a developer, I enjoy sharing knowledge and mentoring o
 
 ### 🚀 Featured Projects
 
-- 🕵️ **[murdoku-studio](https://github.com/Edain92/murdoku-studio)** — Interactive board builder and game tracker for logic deduction puzzles inspired by Murdoku.
-- ✈️ **[orbitea-monorepo](https://github.com/Edain92/orbitea-monorepo)** — AI-powered travel management app leveraging DDD, design patterns, CQRS and AI integration for dynamic itinerary planning.
-- 💸 **[billtracker](https://github.com/Edain92/billtracker)** — Full-stack application to help users manage and track their bills efficiently.
+📚 **[bunko](https://github.com/Edain92/bunko)** — Full-stack application to help users manage and track their bills efficiently.
+🕵️ **[murdoku-studio](https://github.com/Edain92/murdoku-studio)** — Interactive board builder and game tracker for logic deduction puzzles inspired by Murdoku.
+✈️ **[orbitea-monorepo](https://github.com/Edain92/orbitea-monorepo)** — AI-powered travel management app leveraging DDD, design patterns, CQRS and AI integration for dynamic itinerary planning.
 
 <br/>  <br/>
 
