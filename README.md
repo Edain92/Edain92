@@ -8,12 +8,7 @@ I am a **Senior Software Engineer** with over 10 years of experience in software
 
 In addition to my role as a developer, I enjoy sharing knowledge and mentoring others as an **AI & Backend Mentor** at LIDR's AI4Devs program, and through free 1:1 mentorship for junior/mid-level developers.
 
-<br/>  
-
-<img src="https://github-readme-stats.vercel.app/api?username=Edain92&show_icons=true&theme=tokyonight" alt="My GitHub stats" width="35%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edain92&layout=compact&theme=tokyonight" alt="Top Langs" width="35%" />  
-
-<br/>  
+<br/> 
 
 ### Stack & Tools
 
@@ -60,9 +55,6 @@ In addition to my role as a developer, I enjoy sharing knowledge and mentoring o
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-pizarro-cuevas/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpizarrocuevas@gmail.com)
 [![Daily.dev](https://img.shields.io/badge/Daily.dev-9B59B6?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/edain)
-
-
-<a href="https://app.daily.dev/edain"><img src="https://api.daily.dev/devcards/v2/OEK7UERSv.png?type=default&r=pwo" width="200" alt="María Pizarro Cuevas's Dev Card"/></a>
 
 ---
 
