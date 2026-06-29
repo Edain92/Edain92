@@ -17,21 +17,14 @@ In addition to my role as a developer, I enjoy sharing knowledge and mentoring o
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="25" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="25" />
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="25" />
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="25" />
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="25" />
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" height="25" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="25" />
       <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="25" />
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="25" />
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="25" />
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="25" />
-  </div>
-
-  <div style="flex: 1; text-align: center; padding: 10px;">
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="25" />
       <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" height="25" />
-      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="25" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" height="25" />
       <img src="https://img.shields.io/badge/Microservices-1E90FF?style=for-the-badge" alt="Microservices" height="25" />
       <img src="https://img.shields.io/badge/VTEX-F71963?style=for-the-badge&logo=vtex&logoColor=white" alt="VTEX" height="25" />
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" height="25" />
@@ -44,8 +37,10 @@ In addition to my role as a developer, I enjoy sharing knowledge and mentoring o
 
 ### 🚀 Featured Projects
 
-📚 **[bunko](https://github.com/Edain92/bunko)** — Full-stack application to help users manage and track their bills efficiently.
+📚 **[bunko](https://github.com/Edain92/bunko)** — Personal web app for tracking and managing a book collection.
+<br/>
 🕵️ **[murdoku-studio](https://github.com/Edain92/murdoku-studio)** — Interactive board builder and game tracker for logic deduction puzzles inspired by Murdoku.
+<br/>
 ✈️ **[orbitea-monorepo](https://github.com/Edain92/orbitea-monorepo)** — AI-powered travel management app leveraging DDD, design patterns, CQRS and AI integration for dynamic itinerary planning.
 
 <br/>  <br/>
