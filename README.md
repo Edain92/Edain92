@@ -43,7 +43,7 @@ In addition to my role as a developer, I enjoy sharing knowledge and mentoring o
 <br/>
 ✈️ **[orbitea-monorepo](https://github.com/Edain92/orbitea-monorepo)** — AI-powered travel management app leveraging DDD, design patterns, CQRS and AI integration for dynamic itinerary planning.
 
-<br/>  <br/>
+<br/> 
 
 ### 🎯 Connect with me
 
