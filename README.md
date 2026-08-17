@@ -37,7 +37,9 @@ In addition to my role as a developer, I enjoy sharing knowledge and mentoring o
 
 ### 🚀 Featured Projects
 
-📚 **[bunko](https://github.com/Edain92/bunko)** — Personal web app for tracking and managing a book collection.
+💰 **[charin · チャリン](https://github.com/Edain92/charin)** — Personal finance app that replaces years of spreadsheets with a single ledger: planned vs. actual, savings goals, tax and mortgage studies. (チャリン is the Japanese onomatopoeia for the clink of a coin.)
+<br/>
+📚 **[bunko · 文庫](https://github.com/Edain92/bunko)** — Personal web app for tracking and managing a book collection. (文庫 means a paperback library, a personal book collection.)
 <br/>
 🕵️ **[murdoku-studio](https://github.com/Edain92/murdoku-studio)** — Interactive board builder and game tracker for logic deduction puzzles inspired by Murdoku.
 <br/>
